@@ -1,0 +1,6 @@
+{
+  "name": "Neon TextLayer Web Engine",
+  "description": "Futuristischer Web-Engine & Web-View Analyzer zum temporären Laden von URLs und Extrahieren von .text_layer Content (outerText & innerText) mit custom Scripting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
